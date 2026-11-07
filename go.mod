@@ -42,7 +42,7 @@ require (
 	github.com/sagikazarmark/locafero v0.11.0 // indirect
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8 // indirect
 	github.com/tursodatabase/turso-go-platform-libs v0.7.1 // indirect
-	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
+	github.com/xo/terminfo v1.3.1 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 )
 
