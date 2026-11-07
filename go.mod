@@ -13,7 +13,7 @@ require (
 	github.com/fatih/color v1.18.0
 	github.com/gdamore/tcell v1.4.0
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/go-version v1.8.0
+	github.com/hashicorp/go-version v1.9.0
 	github.com/kirsle/configdir v0.0.0-20170128060238-e45d2f54772f
 	github.com/libsql/libsql-shell-go v0.10.7
 	github.com/manifoldco/promptui v0.9.0
